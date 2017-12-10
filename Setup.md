@@ -8,7 +8,6 @@ Make a new folder somewhere:
 
     git clone git@github.com:returntocorp-hackathon/hackathon002.git
     cd hackathon002
-    mkdir ./data
 
 Now setup the VM:
 
