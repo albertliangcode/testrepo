@@ -15,7 +15,9 @@ Now, inside the VM:
     git clone https://github.com/antirez/redis
     cd redis
 
-Now build the project:
+Now build the project using clang static analyzer:
 
-    make -j
+    scan-build make -j
     make test
+
+
