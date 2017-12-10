@@ -4,9 +4,15 @@ Welcome to the hackathon002 wiki!
 
 Install VirtualBox (TODO link)
 
-Make a new folder somewhere
+Make a new folder somewhere: 
+
+    mkdir hackathon && cd hackathon
+
+Now setup the VM:
 
     brew cask install vagrant
+
+    mkdir ./code
     vagrant init hashicorp/precise64
     vagrant up
     vagrant ssh
