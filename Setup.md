@@ -18,14 +18,15 @@ Now setup the VM:
 
 Now, inside the VM:
 
-    sudo apt-get install -y clang git build-essential tcl
-    cd /vagrant_data
-    git clone https://github.com/antirez/redis 
-    cd redis
+    git clone https://github.com/<REPO YOU ARE WORKING ON>
+    cd <NAME OF PROJECT>
 
 Now build the project using clang static analyzer:
 
-    scan-build -o ../redis-scan make 
+    scan-build -o /vagrant_data/scan make
+
+If your project has tests:
+
     make test
 
 
