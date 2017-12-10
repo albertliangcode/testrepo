@@ -2,6 +2,8 @@ Welcome to the hackathon002 wiki!
 
 # Setup a build environment
 
+Install VirtualBox (TODO link)
+
 Make a new folder somewhere
 
     brew cask install vagrant
