@@ -6,14 +6,13 @@ Install VirtualBox (TODO link)
 
 Make a new folder somewhere: 
 
-    mkdir hackathon && cd hackathon
+    git clone git@github.com:returntocorp-hackathon/hackathon002.git
+    cd hackathon002
+    mkdir ./data
 
 Now setup the VM:
 
     brew cask install vagrant
-
-    mkdir ./code
-    vagrant init hashicorp/precise64
     vagrant up
     vagrant ssh
 
