@@ -25,7 +25,7 @@ Now, inside the VM:
 
 Now build the project using clang static analyzer:
 
-    scan-build make -o ../redis-scan
+    scan-build -o ../redis-scan make 
     make test
 
 
