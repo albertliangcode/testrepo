@@ -11,7 +11,6 @@ Ret2Co Tasks
 Stanford Applied Cybersecurity Tasks
 ==
 
-- [ ] Make sure that test suites are available in the `travis.yml`
 - [ ] Identify interesting projects (~20?)
    ** CII is a great start https://www.coreinfrastructure.org/programs/census-project
    ** ideally pick projects with reasonable test coverage
