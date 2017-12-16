@@ -4,7 +4,7 @@
 
 1. Checkout the repo locally into the folder that's shared into your VM.
 
-1. Look through the issues in the [sample project security analysis page](https://app.returntocorp.com/repo/github.com/returntocorp-hackathon/dangerous-c/). Ret2Co is providing infrastructure and tooling to show the results of a bunch of analysis tools on all of the target projects in the hackathon repository. 
+1. Look through the issues in the ["dangerous-c" security analysis page](https://app.returntocorp.com/repo/github.com/returntocorp-hackathon/dangerous-c/). Ret2Co is providing infrastructure and tooling to show the results of a bunch of analysis tools on all of the target projects in the hackathon repository. 
 
 1. Pick one of the issues that's highly upvoted and look at the locations in the code where the issue stems from.
 
