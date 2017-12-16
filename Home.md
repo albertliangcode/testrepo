@@ -1,5 +1,3 @@
-// TODO - Add note about where to go with questions / concerns (Slack? IRC? Other?)
-
 Welcome to the Stanford Applied Cybersecurity - Ret2Co Hackathon!
 
 To get started:
