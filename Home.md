@@ -9,6 +9,6 @@ To get started:
 
 These two pages will give the context and tooling you'll need to tackle security issues throughout the hackathon.
 
-We've already setup a few projects for you to hack on. Check out the [Open Source Security Projects](https://github.com/returntocorp-hackathon/hackathon002/wiki/Open-Source-Security-Projects) list. For each of the listed projects, we've already forked them to the [returntocorp-hackathon](https://github.com/returntocorp-hackathon) Github organization and setup Angler. This will allow you to submit PRs and have Angler analyze them to make sure the issue has been resolved.
+We've forked a few open source projects and setup Angler to run on PR submissions to them. Check out the [Open Source Security Projects](https://github.com/returntocorp-hackathon/hackathon002/wiki/Open-Source-Security-Projects) list to learn more about the projects and known issues.
 
 Happy hacking!
