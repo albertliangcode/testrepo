@@ -26,6 +26,9 @@ Stanford Applied Cybersecurity Tasks
   * clang-tidy checks for openssl APIs
   * other python checks?
 
+Group Tasks/Discussion
+==
+
 - [ ] Identify and approach professors about judging results
   * need some basic criteria such as difficulty, “found CVE”, “# replaced strcpy’s” 
 
