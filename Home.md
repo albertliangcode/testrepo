@@ -1,3 +1,5 @@
+// TODO - Add note about where to go with questions / concerns (Slack? IRC? Other?)
+
 Welcome to the Stanford Applied Cybersecurity - Ret2Co hackathon!
 
 To get started, check out the the [Setting Up Your Development Environment]() and [Using Angler to Identify Security Issues]() pages. They'll give you all of the context and tooling you'll need to tackle security issues throughout the hackathon. Once you have your dev environment setup, it's time get started on known issues within the Open Source community.
