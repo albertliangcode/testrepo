@@ -9,3 +9,5 @@ To get started:
 If you have any questions or experience issues, find us on Slack at **[TODO]**.
 
 Happy hacking!
+
+- The Stanford Applied Cybersecurity and Re2Co Teams
