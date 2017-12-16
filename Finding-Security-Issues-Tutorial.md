@@ -1,3 +1,4 @@
+1. Follow the [[setup instructions|Setting Up Your Development Environment]]
 
 1. Fork the [sample project, "dangerous-c"](https://github.com/returntocorp-hackathon/dangerous-c) to your personal github
 
