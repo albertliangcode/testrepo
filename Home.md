@@ -1,10 +1,6 @@
-1. Follow the [Setup] instructions
-2. Now fix a bug in the [sample project].
+TODO (dlukeomalley): welcome message
 
-----
+1. Follow the [Setting Up Your Development Environment]() instructions.
+2. Do the [Using Angler to Identify Security Issues]() tutorial to tackle your first bug of the day.
+3. Finally, check out the [Open Source Security Issues] list and join a team to coordinate and address them!
 
-3. Pick a project from the [list of target projects].
-4. Fork the repo from the hackathon github (link) list to your own Github.
-5. lookup the project on app.returntocorp.com and pick an interesting issue
-5. Fix the issue and submit a pull request to the upstream project on the Hackathon github.
-6. profit!!?
